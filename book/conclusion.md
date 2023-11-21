@@ -1,0 +1,10 @@
+# Conclusion
+
+This study evaluated the efficacy of transfer learning utilizing whisper small transformers for the transcription of African-accented English speech. The results of this study emphasize these significant aspects: whisper transformers exhibit a notable improvement in the precision of ASR when employed in the analysis of African-accented speech. The observed enhancement can be ascribed to their proficiency in comprehending intricacies, diverse language settings, and subtle distinctions of different accents, leading to more accurate transcriptions.
+
+
+The utilization of transfer learning is of utmost importance in harnessing the existing knowledge and language representations embedded in whisper models. Through the process of fine-tuning these models using an African-accented speech dataset, it is possible to successfully customize them to accommodate the distinct characteristics and linguistic subtleties inherent in African accents. The utilization of transfer learning in this approach facilitates the effective utilization of existing resources and mitigates the requirement for extensive labeled data for the training of ASR models specifically designed for African-accented speech.
+
+
+This study makes a valuable contribution to the progress of ASR research in underresourced languages in Africa. This underscores the importance of developing customized language technologies specifically designed to address the requirements of various linguistic environments. The integration of transfer learning methodologies and fine-tuning methodologies holds considerable potential for achieving the precise transcription of African-accented speech. This advancement has promising implications in various domains, including speech recognition systems, language preservation efforts, and human-computer interaction within African communities. Further investigation and advancement in this domain are crucial for fully harnessing the inherent capabilities of African languages and fostering inclusivity within language technologies.
+

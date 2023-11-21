@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Introduction
+- file: whisper
+- file: markdown
+- file: dataexploration
+- file: preprocessing
+- file: asr_notebook
+- file: asrtool_usage
+- file: conclusion
+- file: bibliography
+# - file: khanyi_asr_test
+# - file: notebooks
+# - file: markdown-notebooks
